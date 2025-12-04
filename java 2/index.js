@@ -433,7 +433,7 @@ console.log(result);
 // console.dir(allelements);
 
 // console.log("peer");
-let uma = document.querySelector("div");
+let uma = document.querySelector("id");
 console.log(uma);
 
 
