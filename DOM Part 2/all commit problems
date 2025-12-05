@@ -1,0 +1,10 @@
+to track untracked files :-
+1.click on the + sign, right next to file.
+2.now write in the message box : First commit after re-enabling track.
+3.then click sync message.
+
+to update details in file :-
+1. 1st steps is same as the untracked files steps.
+2. write updated file name in message box.
+e.g. updated index.html,
+3. same as the 3rd steps as above.
